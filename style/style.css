@@ -1,0 +1,203 @@
+.header{
+    margin-top: 10px;
+    width: 100%;
+}
+
+sep{
+    margin: 0 7px 0 7px;
+}
+
+.searchbar{
+    width: 40%;
+}
+
+select{
+    border-color: gainsboro;
+}
+
+select.distritos{
+    border: 0;
+}
+
+#reglas{
+    margin-right: 10px;
+}
+
+menu{
+    width: 100%;
+}
+
+#menu-inicio-left{
+    margin: 5px 0 5px 0;
+    padding: 0 10px 0 10px;
+    border: 1px solid gainsboro;
+    width: auto;
+    display: inline-block;
+}
+
+#menu-inicio-right{
+    margin: 5px 0 5px 0;
+    padding: 0 10px 0 10px;
+    width: auto;
+    display: inline-block;
+}
+
+.clear{
+    clear: both;
+}
+
+.ib{
+    display: inline-block;
+}
+
+span{
+    vertical-align: middle;
+}
+
+#seleccion{
+    background-color: gainsboro;
+    margin: 5px 0 5px 0;
+    padding: 0 10px 0 10px;
+    border: 1px solid lightgrey;
+    width: 100%;
+    height: 25px;
+    display: inline-block;
+}
+
+.colchecks{
+    width: 150px;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+}
+
+#selection-footer{
+    width: 100%;
+    text-align: center;
+}
+
+.center{
+    margin: auto;
+    display: inline-block;
+}
+
+#black-title{
+    background-color: black;
+    color: white;
+    margin: 20px 0 5px 0;
+    padding: 0 10px 0 10px;
+    width: 100%;
+    height: 25px;
+    display: inline-block;
+}
+
+#titulo-alineacion{
+    margin: 5px 0 5px 0;
+    padding: 0 10px 0 10px;
+    width: auto;
+    display: inline-block;
+    clear: both;
+}
+
+#panel-territorios{
+    border-color: gainsboro;
+    border-right-style: solid;
+    border-width: thick;
+    padding-left: 10px;
+}
+
+#territorios-bar{
+    margin: 5px 0 5px 0;
+    padding: 0 10px 0 10px;
+    width: auto;
+    height: auto;
+}
+
+#territorios-bar span{
+    line-height: 30px;
+    text-align: center;
+}
+
+#territorio{
+    margin: 10px 0 0 15px;
+    font-size: .8em;
+}
+
+#territorio p{
+    padding: 5px;
+    margin: 0;
+    width: auto;
+}
+
+#t1{
+    border-color: gainsboro;
+    border-style: solid;
+    border-width: thin;
+    height: 100px;
+    display: table-cell;
+    width: 12%;
+    background-color: gainsboro;
+}
+
+#t1-head{
+    height: 35%;
+    background-color: #aeb1b7;
+}
+
+#t2{
+    border-color: gainsboro;
+    border-style: solid;
+    border-width: thin;
+    height: 100px;
+    display: table-cell;
+    width: 44%;
+    padding-top: 0;
+}
+
+#t3{
+    border-color: gainsboro;
+    border-style: solid;
+    border-width: thin;
+    height: 100px;
+    display: table-cell;
+    width: 44%;
+}
+
+.boxed-title{
+    background-color: gainsboro;
+    padding: 2px;
+    width: 30%;
+    height: 25px;
+}
+
+.boxed-title p{
+    margin: 0;
+}
+
+.table{
+    display: table;
+    margin-left: 20px;
+}
+
+.tc{
+    display: table-cell;
+}
+
+.tr{
+    display: table-row;
+}
+
+.tcf{
+    background-color: gainsboro;
+    width: 70%;
+}
+
+a:link, a:visited {
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: darkgray;
+    text-decoration: underline;
+}
